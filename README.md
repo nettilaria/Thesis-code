@@ -3,7 +3,7 @@
 2) _Efficiency.py_ contains the efficiency taken from https://github.com/XENONnT/cevns_data_release/blob/master/plot.ipynb.
    It was then modified in order to obtain the acceptance, because of Fig.1 of https://arxiv.org/pdf/2604.06002.
 
-3) _CEVNS_*_ contains the backgrounds of XENONnT.
+3) _CEVNS*_ contains the backgrounds of XENONnT.
    The structure of the code is taken from https://github.com/XENONnT/cevns_data_release/blob/master/plot.ipynb
    Then I have:
    -  divided each science run, instead of summing them up;
